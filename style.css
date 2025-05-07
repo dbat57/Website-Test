@@ -1,0 +1,47 @@
+html {background-color:#86c8de;}
+.title{background-color:#4798d1;
+color:#003557;
+text-align:center;
+padding:17px;
+border: 3.5px solid black;}
+
+body{text-align:center;}
+
+#space{float:left;
+width:440px;
+height:350px;}
+
+nav{line-height:45px;
+height:55px;
+padding:5px;}
+
+.second-title{background-color:#4798d1;
+color:#003557;
+padding:15px;
+border: 2.5px solid black;}
+
+.third-title{background-color:#4798d1;
+color:#003557;
+padding:13px;
+border: 2.5px solid black;}
+
+p{text-align:left;}
+
+.btn:hover{background-color:#3fa6ee;}
+.btn:active{background-color:#003557;}
+.btn{background-color:#4798d1;
+transform:scale(1.06);
+font-size:15px;
+color:#003557;
+font-family:georgia;
+padding:2.5px;}
+
+.end{background-color:#4798d1;
+  color:#003557;
+  padding:15px;
+  border: 2.5px solid black;
+  text-align:center;
+}
+
+#credits{text-align:center;
+background-color:#6da6ce;}
